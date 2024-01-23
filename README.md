@@ -1,13 +1,14 @@
 # Flutter Projects List
-    A list of all FLUTTER projects built by me
 
-- >Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
+- A list of all FLUTTER projects built by me
+
+- Run any Flutter repository on Zapp website: <a href="https://zapp.run/assets/homepage/import-github.gif">refer this link </a>
 
 ## Table of Contents
 
-```diff
-- Total Projects = 15
-```
+  ```diff
+  - Total Projects = 15
+  ```
 
 <table>
 <!-- Table heading starts -->
