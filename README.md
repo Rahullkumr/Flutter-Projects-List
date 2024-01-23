@@ -17,9 +17,11 @@
     <th>Project Name</th>
     <th>Tech & Concepts</th>
     <th>Type</th>
-    <th>Provider</th>
+    <th>Related to</th>
   </tr>
 <!-- table body starts -->
+
+
 
 
 
@@ -61,6 +63,8 @@
 
 
 
+
+
 <!-- by LCO (Hitesh Chaudhary) -->  
   <tr>    
     <td rowspan=4>2</td>
@@ -98,6 +102,9 @@
   </tr>
 
 
+
+
+
 <!-- by me (virtual Internship) -->
   <tr>    
     <td rowspan=3>3</td>
@@ -107,7 +114,7 @@
     </td>
     <td>Flutter, Dart</td>
     <td rowspan=3>Virtual Internship</td>
-    <td rowspan=4>BharatIntern</td>
+    <td rowspan=3>BharatIntern</td>
   </tr>
 
   <tr>
@@ -127,4 +134,41 @@
   </tr>
 
 
-  <!-- by Excelr -->
+
+
+
+<!-- by Excelr -->
+  <tr>    
+    <td>4</td>
+    <td>1</td>
+    <td>
+        <a href="https://github.com/Rahullkumr/excelrflutter">Excelr related</a>
+    </td>
+    <td>Flutter, Dart, REST API, Shared Preferences</td>
+    <td>Tutorial</td>
+    <td>Excelr MAD</td>
+  </tr>
+
+
+
+
+
+
+<!-- by Me (college) -->
+  <tr>    
+    <td rowspan=1>5</td>
+    <td>1</td>
+    <td>
+        <a href="">Exlog - Expense Logger</a>
+    </td>
+    <td>Flutter, Dart, SQLite</td>
+    <td>college mini Project</td>
+    <td>College</td>
+  </tr>
+
+
+
+
+
+
+</table>
