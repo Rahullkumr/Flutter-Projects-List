@@ -42,8 +42,8 @@
         <a href="https://github.com/Rahullkumr/Flutter-Projects/tree/main/1Incremnt_decremnt">Increment Decrement</a>
     </td>
     <td>Flutter, Dart</td>
-    <td>Tutorial</td>
-    <td>LCO (Hitesh Chaudhary)</td>
+    <td rowspan=4>Tutorial</td>
+    <td rowspan=4>LCO (Hitesh Chaudhary)</td>
   </tr>
 
   <tr>
@@ -52,6 +52,20 @@
         <a href="https://github.com/Rahullkumr/Flutter-Projects/tree/main/2Spanish_Nos">Spanish Numbers</a>
     </td>
     <td>Flutter, Dart</td>
-    <td>Tutorial</td>
-    <td>LCO (Hitesh Chaudhary)</td>
+  </tr>
+
+  <tr>
+    <td>3</td>
+    <td>
+        <a href="https://github.com/Rahullkumr/Flutter-Projects/tree/main/3Bg_Changer">Background Changer</a>
+    </td>
+    <td>Flutter, Dart</td>
+  </tr>
+
+  <tr>
+    <td>4</td>
+    <td>
+        <a href="https://github.com/Rahullkumr/Flutter-Projects/tree/main/4Dice_Roller">Dice Roller</a>
+    </td>
+    <td>Flutter, Dart</td>
   </tr>
