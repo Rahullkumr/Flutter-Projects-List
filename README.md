@@ -6,7 +6,7 @@
 ## Table of Contents
 
 ```diff
-+ Total Projects = 05
+- Total Projects = 15
 ```
 
 <table>
@@ -145,7 +145,7 @@
         <a href="https://github.com/Rahullkumr/excelrflutter">Excelr related</a>
     </td>
     <td>Flutter, Dart, REST API, Shared Preferences</td>
-    <td>Tutorial</td>
+    <td>Live Class</td>
     <td>Excelr MAD</td>
   </tr>
 
@@ -156,14 +156,23 @@
 
 <!-- by Me (college) -->
   <tr>    
-    <td rowspan=1>5</td>
+    <td rowspan=2>5</td>
     <td>1</td>
     <td>
-        <a href="">Exlog - Expense Logger</a>
+        <a href="https://github.com/Rahullkumr/exlog">Exlog - Expense Logger</a>
     </td>
     <td>Flutter, Dart, SQLite</td>
     <td>college mini Project</td>
-    <td>College</td>
+    <td rowspan=2>College</td>
+  </tr>
+
+  <tr>
+    <td>2</td>
+    <td>
+        <a href="">.....</a>
+    </td>
+    <td>Flutter, Dart</td>
+    <td rowspan=2>Final Project</td>
   </tr>
 
 
