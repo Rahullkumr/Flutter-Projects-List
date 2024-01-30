@@ -57,7 +57,7 @@
   <tr>
     <td>4</td>
     <td>
-        <a href="https://github.com/Rahullkumr/flutter-04-xylophone">Dicee</a>
+        <a href="https://github.com/Rahullkumr/flutter-03-dicee">Dicee</a>
     </td>
     <td>' '</td>
   </tr>
@@ -65,7 +65,7 @@
   <tr>
     <td>5</td>
     <td>
-        <a href="https://github.com/Rahullkumr/flutter-03-dicee">Xylophone</a>
+        <a href="https://github.com/Rahullkumr/flutter-04-xylophone">Xylophone</a>
     </td>
     <td>CICD, GitHub-Actions, release-automation, github-actions, build-apk</td>
   </tr>
