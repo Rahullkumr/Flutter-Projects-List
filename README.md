@@ -28,14 +28,14 @@
 
 <!-- by Udemy(Angela Yu) -->
   <tr>    
-    <td rowspan=4>1</td>
+    <td rowspan=6>1</td>
     <td>1</td>
     <td>
         <a href="https://github.com/Rahullkumr/flutter-00-helloWorld">Hello World</a>
     </td>
     <td>Flutter, Dart</td>
-    <td rowspan=4>Tutorial</td>
-    <td rowspan=4>Udemy (Angela Yu)</td>
+    <td rowspan=6>Tutorial</td>
+    <td rowspan=6>Udemy (Angela Yu)</td>
   </tr>
 
   <tr>
@@ -57,7 +57,23 @@
   <tr>
     <td>4</td>
     <td>
-        <a href="https://github.com/Rahullkumr/flutter-03-dicee">Dicee</a>
+        <a href="https://github.com/Rahullkumr/flutter-04-xylophone">Dicee</a>
+    </td>
+    <td>' '</td>
+  </tr>
+
+  <tr>
+    <td>5</td>
+    <td>
+        <a href="https://github.com/Rahullkumr/flutter-03-dicee">Xylophone</a>
+    </td>
+    <td>CICD, GitHub-Actions, release-automation, github-actions, build-apk</td>
+  </tr>
+
+  <tr>
+    <td>6</td>
+    <td>
+        <a href="https://github.com/Rahullkumr/flutter-04-quiz">Quiz-TrueFalse</a>
     </td>
     <td>' '</td>
   </tr>
