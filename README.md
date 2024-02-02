@@ -186,9 +186,9 @@
   <tr>
     <td>2</td>
     <td>
-        <a href="">.....</a>
+        <a href="https://github.com/Rahullkumr/Fixitwala">Fixitwala</a>
     </td>
-    <td>Flutter, Dart</td>
+    <td>Flutter, Dart, Firebase</td>
     <td rowspan=2>Final Project</td>
   </tr>
 
