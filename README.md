@@ -73,7 +73,7 @@
   <tr>
     <td>6</td>
     <td>
-        <a href="https://github.com/Rahullkumr/flutter-04-quiz">Quiz-TrueFalse</a>
+        <a href="https://github.com/Rahullkumr/flutter-05-quiz">Quiz-TrueFalse</a>
     </td>
     <td>Flutter and dart</td>
   </tr>
